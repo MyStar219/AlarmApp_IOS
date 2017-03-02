@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__38-[LoginViewController actionAutoLogin]_block_invoke:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalPool sharedObject].m_constant">
+            </PersistentString>
+            <PersistentString
+               value = "self.m_wsUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

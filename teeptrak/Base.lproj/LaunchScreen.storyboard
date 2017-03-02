@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="085-e9-YSv">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="BXW-lf-dPz">
+            <objects>
+                <viewController id="085-e9-YSv" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="HAm-UW-E80"/>
+                        <viewControllerLayoutGuide type="bottom" id="jvT-cR-U5T"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="e0H-rc-ur2">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="login.png" translatesAutoresizingMaskIntoConstraints="NO" id="nrt-ih-RAK">
+                                <rect key="frame" x="0.0" y="230" width="320" height="108"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="nrt-ih-RAK" secondAttribute="height" multiplier="80:27" id="F8e-iI-2FD"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="nrt-ih-RAK" firstAttribute="centerX" secondItem="e0H-rc-ur2" secondAttribute="centerX" id="DHl-ZF-21c"/>
+                            <constraint firstItem="nrt-ih-RAK" firstAttribute="width" secondItem="e0H-rc-ur2" secondAttribute="width" id="ELY-Ep-MtF"/>
+                            <constraint firstItem="nrt-ih-RAK" firstAttribute="centerY" secondItem="e0H-rc-ur2" secondAttribute="centerY" id="y0r-D1-wuB"/>
+                        </constraints>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="fNa-63-lzy" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="296" y="398"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="login.png" width="209" height="72"/>
+    </resources>
+</document>

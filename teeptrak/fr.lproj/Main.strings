@@ -1,0 +1,279 @@
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "0b1-iX-CFb"; */
+"0b1-iX-CFb.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "1K6-0j-ImX"; */
+"1K6-0j-ImX.text" = "Monday";
+
+/* Class = "UILabel"; text = "Language selection"; ObjectID = "2Jd-eN-zP9"; */
+"2Jd-eN-zP9.text" = "Language selection";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "3Xb-9P-tf5"; */
+"3Xb-9P-tf5.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Override phone settings. Will active the \nsound on notification even if phone is on\nmute."; ObjectID = "3mw-MZ-ZWB"; */
+"3mw-MZ-ZWB.text" = "Override phone settings. Will active the \nsound on notification even if phone is on\nmute.";
+
+/* Class = "UILabel"; text = "NOTIFICATION SETTINGS"; ObjectID = "4Nv-zA-mfF"; */
+"4Nv-zA-mfF.text" = "NOTIFICATION SETTINGS";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "4Yt-Gb-uIV"; */
+"4Yt-Gb-uIV.text" = "HH:MM";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "56z-e7-FFf"; */
+"56z-e7-FFf.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "6Z7-V3-qC9"; */
+"6Z7-V3-qC9.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Tuesday"; ObjectID = "75i-AN-QzW"; */
+"75i-AN-QzW.text" = "Tuesday";
+
+/* Class = "UILabel"; text = "Will display a message above any\nactivities on alert reception"; ObjectID = "7F3-74-345"; */
+"7F3-74-345.text" = "Will display a message above any\nactivities on alert reception";
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "7p2-kI-CUD"; */
+"7p2-kI-CUD.normalTitle" = "<<";
+
+/* Class = "UILabel"; text = "Vibration"; ObjectID = "87U-Da-KGY"; */
+"87U-Da-KGY.text" = "Vibration";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "88E-6W-b5v"; */
+"88E-6W-b5v.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "8tm-AN-NQ8"; */
+"8tm-AN-NQ8.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "959-Up-4Yx"; */
+"959-Up-4Yx.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "9kt-fB-lOe"; */
+"9kt-fB-lOe.text" = "Sunday";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "9rd-Ro-wfx"; */
+"9rd-Ro-wfx.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Friday"; ObjectID = "9zP-Vw-M1w"; */
+"9zP-Vw-M1w.text" = "Friday";
+
+/* Class = "UILabel"; text = "Thursday"; ObjectID = "BJ6-QS-gQd"; */
+"BJ6-QS-gQd.text" = "Thursday";
+
+/* Class = "UILabel"; text = "Vibration on notification reception"; ObjectID = "BRR-RR-mpY"; */
+"BRR-RR-mpY.text" = "Vibration on notification reception";
+
+/* Class = "UIViewController"; title = "Login"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Login";
+
+/* Class = "UILabel"; text = "Alarm properties and  time zone configuration"; ObjectID = "BuS-74-T9z"; */
+"BuS-74-T9z.text" = "Alarm properties and  time zone configuration";
+
+/* Class = "UILabel"; text = "Override phone settings. Will active the \nsound on notification even if phone is on\nmute."; ObjectID = "CPB-fi-li1"; */
+"CPB-fi-li1.text" = "Override phone settings. Will active the \nsound on notification even if phone is on\nmute.";
+
+/* Class = "UIViewController"; title = "Main"; ObjectID = "D3w-U5-1rm"; */
+"D3w-U5-1rm.title" = "Main";
+
+/* Class = "UILabel"; text = "Thursday"; ObjectID = "DcB-oa-Ss3"; */
+"DcB-oa-Ss3.text" = "Thursday";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Dcp-a8-aS0"; */
+"Dcp-a8-aS0.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "EcV-y3-G6S"; */
+"EcV-y3-G6S.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "FnP-iX-08O"; */
+"FnP-iX-08O.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Saturday"; ObjectID = "Fri-jv-Sai"; */
+"Fri-jv-Sai.text" = "Saturday";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "G6F-Gf-7Jc"; */
+"G6F-Gf-7Jc.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Sound always active"; ObjectID = "H3E-6L-fN6"; */
+"H3E-6L-fN6.text" = "Sound always active";
+
+/* Class = "UIButton"; normalTitle = "Alarm level 1"; ObjectID = "HHj-h8-8IN"; */
+"HHj-h8-8IN.normalTitle" = "Alarm level 1";
+
+/* Class = "UILabel"; text = "Friday"; ObjectID = "I97-VP-w9X"; */
+"I97-VP-w9X.text" = "Friday";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "JpS-W6-dfM"; */
+"JpS-W6-dfM.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "All alarms disabled for 23:59:59"; ObjectID = "L7N-H2-yBA"; */
+"L7N-H2-yBA.text" = "All alarms disabled for 23:59:59";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "LJu-KD-NFY"; */
+"LJu-KD-NFY.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "configure"; ObjectID = "MeT-FV-0Tr"; */
+"MeT-FV-0Tr.normalTitle" = "configure";
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "NZS-2Z-jkF"; */
+"NZS-2Z-jkF.normalTitle" = "<<";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "OfY-cA-gYQ"; */
+"OfY-cA-gYQ.text" = "To";
+
+/* Class = "UIButton"; normalTitle = "Disable all alarm"; ObjectID = "Owa-hv-Qms"; */
+"Owa-hv-Qms.normalTitle" = "Disable all alarm";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "Pno-g8-5hf"; */
+"Pno-g8-5hf.text" = "HH:MM";
+
+/* Class = "UIButton"; normalTitle = " Remember me"; ObjectID = "QZP-MS-V19"; */
+"QZP-MS-V19.normalTitle" = " Remember me";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "Quf-Mg-VDV"; */
+"Quf-Mg-VDV.text" = "Login";
+
+/* Class = "UILabel"; text = "Tuesday"; ObjectID = "Rmc-kh-fTi"; */
+"Rmc-kh-fTi.text" = "Tuesday";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "SxL-uS-5hH"; */
+"SxL-uS-5hH.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "T1T-q5-Urh"; */
+"T1T-q5-Urh.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "VUH-Mj-m1b"; */
+"VUH-Mj-m1b.text" = "To";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "Vmn-gD-lf7"; */
+"Vmn-gD-lf7.text" = "From";
+
+/* Class = "UILabel"; text = "Alarm level 2 notification\ntime zone configuration"; ObjectID = "WDS-pk-q36"; */
+"WDS-pk-q36.text" = "Alarm level 2 notification\ntime zone configuration";
+
+/* Class = "UIButton"; normalTitle = "logout"; ObjectID = "WLF-8W-TgM"; */
+"WLF-8W-TgM.normalTitle" = "logout";
+
+/* Class = "UILabel"; text = "System notification"; ObjectID = "Xi0-xp-XDC"; */
+"Xi0-xp-XDC.text" = "System notification";
+
+/* Class = "UILabel"; text = "Saturday"; ObjectID = "ZQR-On-IAh"; */
+"ZQR-On-IAh.text" = "Saturday";
+
+/* Class = "UILabel"; text = "Vibration on notification reception"; ObjectID = "axr-3q-VEk"; */
+"axr-3q-VEk.text" = "Vibration on notification reception";
+
+/* Class = "UILabel"; text = "Will display a message above any\nactivities on alert reception"; ObjectID = "bY7-Oc-9mv"; */
+"bY7-Oc-9mv.text" = "Will display a message above any\nactivities on alert reception";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "cAi-1L-reh"; */
+"cAi-1L-reh.text" = "Password";
+
+/* Class = "UIViewController"; title = "Alarm configuration"; ObjectID = "cCf-nj-p0R"; */
+"cCf-nj-p0R.title" = "Alarm configuration";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "cQW-Yq-OYG"; */
+"cQW-Yq-OYG.text" = "HH:MM";
+
+/* Class = "UIViewController"; title = "Alarm level 2"; ObjectID = "cl6-my-h17"; */
+"cl6-my-h17.title" = "Alarm level 2";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "cnL-gz-G4D"; */
+"cnL-gz-G4D.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "cnn-TP-X3C"; */
+"cnn-TP-X3C.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "d8k-IL-NB3"; */
+"d8k-IL-NB3.text" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "dDh-QF-rjU"; */
+"dDh-QF-rjU.normalTitle" = "<<";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "daP-8L-Gxz"; */
+"daP-8L-Gxz.text" = "Monday";
+
+/* Class = "UIViewController"; title = "Alarm level 1"; ObjectID = "dqJ-kt-4oV"; */
+"dqJ-kt-4oV.title" = "Alarm level 1";
+
+/* Class = "UILabel"; text = "ALARM DETAILS"; ObjectID = "fPe-Wq-LrN"; */
+"fPe-Wq-LrN.text" = "ALARM DETAILS";
+
+/* Class = "UIViewController"; title = "Alarm Detail"; ObjectID = "fqN-Ai-Ghx"; */
+"fqN-Ai-Ghx.title" = "Alarm Detail";
+
+/* Class = "UIButton"; normalTitle = "Alarm level 2"; ObjectID = "fxG-du-1ar"; */
+"fxG-du-1ar.normalTitle" = "Alarm level 2";
+
+/* Class = "UILabel"; text = "NOTIFICATION SETTINGS"; ObjectID = "gOC-RH-8rN"; */
+"gOC-RH-8rN.text" = "NOTIFICATION SETTINGS";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "gZi-9C-Sdt"; */
+"gZi-9C-Sdt.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "hYm-T9-32c"; */
+"hYm-T9-32c.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "All day"; ObjectID = "hyl-mu-PLo"; */
+"hyl-mu-PLo.text" = "All day";
+
+/* Class = "UILabel"; text = "Sunday"; ObjectID = "iLK-NK-AgE"; */
+"iLK-NK-AgE.text" = "Sunday";
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "kBf-qi-dXA"; */
+"kBf-qi-dXA.text" = "Wednesday";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "lni-3U-9h2"; */
+"lni-3U-9h2.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "mOj-ve-XfY"; */
+"mOj-ve-XfY.text" = "From";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "nCo-Mk-D9z"; */
+"nCo-Mk-D9z.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "nZb-vt-RxM"; */
+"nZb-vt-RxM.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "nho-eY-3Do"; */
+"nho-eY-3Do.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "oBb-QT-RdM"; */
+"oBb-QT-RdM.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "ooK-oI-d4a"; */
+"ooK-oI-d4a.text" = "HH:MM";
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "qEN-gW-rkm"; */
+"qEN-gW-rkm.normalTitle" = "<<";
+
+/* Class = "UILabel"; text = "Alarm level 1 notification time zone configuration"; ObjectID = "r4r-c6-7mw"; */
+"r4r-c6-7mw.text" = "Alarm level 1 notification time zone configuration";
+
+/* Class = "UILabel"; text = "All day"; ObjectID = "tC9-Fs-8Sx"; */
+"tC9-Fs-8Sx.text" = "All day";
+
+/* Class = "UILabel"; text = "System notification"; ObjectID = "tpt-4N-zKd"; */
+"tpt-4N-zKd.text" = "System notification";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "tt7-5I-f8f"; */
+"tt7-5I-f8f.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "tvK-hX-Nlc"; */
+"tvK-hX-Nlc.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Vibration"; ObjectID = "wCt-8a-RIx"; */
+"wCt-8a-RIx.text" = "Vibration";
+
+/* Class = "UILabel"; text = "Wednesday"; ObjectID = "yD2-P1-7CS"; */
+"yD2-P1-7CS.text" = "Wednesday";
+
+/* Class = "UIButton"; normalTitle = "Go!"; ObjectID = "yEv-ug-OlN"; */
+"yEv-ug-OlN.normalTitle" = "Go!";
+
+/* Class = "UILabel"; text = "Sound always active"; ObjectID = "yOz-Gu-ob1"; */
+"yOz-Gu-ob1.text" = "Sound always active";
+
+/* Class = "UILabel"; text = "HH:MM"; ObjectID = "yUa-Nx-kx6"; */
+"yUa-Nx-kx6.text" = "HH:MM";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zm7-n0-lRc"; */
+"zm7-n0-lRc.text" = "Title";

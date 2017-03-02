@@ -1,0 +1,10 @@
+# Teeptrak Host API
+api:
+    host: www.teeptrak.net
+    port: 443
+    ssl: true
+    self_signed: true
+
+# Google Cloud Message Sender ID
+# needed for registration
+gcm_sender_id: "992803347249" # enclosed by doule-quotes to force string type and avoid to be considered as float
